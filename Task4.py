@@ -62,8 +62,3 @@ class PoliceCar(Car):
     сhevrolet.stop()
     сhevrolet.turn(30)
     сhevrolet.show_speed()
-
-
-
-
-
