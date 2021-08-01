@@ -22,5 +22,3 @@ class TrafficLight:
 
 traffic_lights = TrafficLight()
 traffic_lights.running()
-
-
